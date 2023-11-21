@@ -1,0 +1,61 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: rgb(235, 235, 235);
+    text-align: center;
+    margin: 3% auto;
+    border-radius: 0.5rem;
+}
+
+#header {
+    padding: 2% 0;
+}
+#img-div {
+    background-color: white;
+    width: 98%;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+#image {
+    max-width: 100%;
+        display: block;
+        height: auto;
+        margin: 0 auto;
+
+}
+
+#img-caption {
+    padding: 1%;
+}
+
+article {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#facts ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+#facts li {
+    margin: 16px auto;
+}
+
+#facts .fact-title {
+    font-weight: bold;
+}
+
+#tribute {
+    font-size: large;
+    font-weight: bold;
+    padding: 5%;
+}
+
+a {
+    color: rgb(248, 164, 178);
+}
